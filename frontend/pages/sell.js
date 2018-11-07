@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import CreateItem from '../components/CreateItem';
 
 const Sell = () => {
   return (
     <div>
-      Sell
+      <CreateItem />
     </div>
   )
 }
